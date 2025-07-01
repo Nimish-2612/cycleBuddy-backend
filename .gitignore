@@ -1,0 +1,19 @@
+# 🔒 Sensitive files
+.env
+firebase-service-account.json
+serviceAccountKey.json
+
+# 📦 Dependency directory
+node_modules/
+
+# 💻 IDE/editor & system files
+.vscode/
+.idea/
+.DS_Store
+
+# 📑 Logs (optional)
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
