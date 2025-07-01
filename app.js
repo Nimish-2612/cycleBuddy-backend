@@ -11,7 +11,7 @@ dotenv.config();
 const app = express();
 app.use(
   cors({
-    origin: "https://cyclebuddy-backend.onrender.com",
+    origin: "https://cycle-buddy.vercel.app",
     credentials: true,
   })
 );
